@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different pet-projects and kaggle-competitions
 - 📫 How to reach me: 
     📧: m.tussupova@gmail.com
-    telegram: @tussupova
+    
 
 
 <!---
