@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning Engineering
 - 🌱 I’m currently working at ENGIE IT and Learning stuff from coursera
 - 💞️ I’m looking to collaborate on different pet-projects and kaggle-competitions
-- 📫 How to reach me: 
+- 📫 You can reach me by
     📧: m.tussupova@gmail.com
     
 
