@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different pet-projects and kaggle-competitions
 - 📫 You can reach me by
     📧: m.tussupova@gmail.com
-- 📎 Here is link to my CV: https://drive.google.com/file/d/1Sz2rntiyvZ_kWXE8XWB6ljtvOmS2dfAG/view
+    LinkedIn: https://www.linkedin.com/in/mtussupova/
     
 
 
